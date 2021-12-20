@@ -8,8 +8,11 @@ The purpose of this analysis is to calculate the existence of a correlation with
 After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
 
 #How is the school summary affected?
+![image](https://user-images.githubusercontent.com/86033316/146695585-d989e276-9274-4928-9f75-9974f466ed34.png)
+![image](https://user-images.githubusercontent.com/86033316/146696029-51f6bacd-c828-4b6f-b3e7-0e66d0c2c82e.png)
 
-The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
+![Uploading image.png…]()
+The over all passing for Thomas High School was 90.95% in pycityschools, with the 9th graders taken out the overall passing decresed to 90.63 and  shrinked by 0.3 %.
 
 #How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
