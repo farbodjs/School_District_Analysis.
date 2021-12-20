@@ -8,15 +8,14 @@ The purpose of this analysis is to calculate the existence of a correlation with
 After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
 
 #How is the school summary affected?
+Overally speaking, there is not a significant change in school summary after elliminating 9th graders from calculations. 
+#How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 ![image](https://user-images.githubusercontent.com/86033316/146695585-d989e276-9274-4928-9f75-9974f466ed34.png)
 ![image](https://user-images.githubusercontent.com/86033316/146696029-51f6bacd-c828-4b6f-b3e7-0e66d0c2c82e.png)
 
-![Uploading image.png…]()
-The over all passing for Thomas High School was 90.95% in pycityschools, with the 9th graders taken out the overall passing decresed to 90.63 and  shrinked by 0.3 %.
+The overall passing for Thomas High School was 90.95% in pycityschools, with the 9th graders taken out the overall passing decresed to 90.63 and  shrinked by 0.3 %.
 
-#How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-Overall it does not affect either the reading scores or math scores. We are doing an investigation because we believe they are not including most of the 9th graders scores because they might bring the school even further down in test scores.
 
 #How does replacing the ninth-grade scores affect the following: #Math and reading scores by grade
 
@@ -24,7 +23,8 @@ The only difference now between the scores is that under 9th graders who attende
 
 #Scores by school spending
 
-The numbers stay nearly identical since the 9th graders are nullified from the statistics.
+The numbers stay nearly identical after the 9th graders are elliminated from the statistics. Average math score decreased from 83.42 to 83.35 which is a minor change.
+
 
 #Scores by school size
 
